@@ -30,7 +30,7 @@ Places are generally located in the following way:
 
 ## We aim to create the following maps: 
 
-**Variants of these maps will be made for different periods**
+*Variants of these maps will be made for different periods**
 
 - Administrative boundaries (and how they change)
 - Mapping estimated government control
