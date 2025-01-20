@@ -5,7 +5,7 @@
 This is an attempt at making up to date maps, intended for use in scientific publications and other uses. The maps are made by heavily relying on primary sources from the period. 
 
 ### Place localization process
-Places are generally located in the following way:
+*Places are generally located in the following way:*
 1. Identify a place in the source material
 2. Look up the placename in modern maps with modernized spelling
 3. Look up the placename on historical maps.
