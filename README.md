@@ -2,7 +2,7 @@
 
 ## A Mapping project by Simon & Vetle
 
-This is an attempt at making up to date maps, intended for use in scientific publications and other uses. The maps are made by heavily relying on primary sources from the period. 
+This is an attempt at making up to date maps of the northernmost parts of fenno-scandinavia, depicting the region in the early modern period, intended for use in scientific publications and other uses. The maps are made by heavily relying on primary sources from the period. 
 
 ### Place localization process
 *Places are generally located in the following way:*
@@ -41,4 +41,6 @@ This is an attempt at making up to date maps, intended for use in scientific pub
 - Travel time map
 - Population map 
 - Historical placename map
-- Normalized historical placename map 
+- Normalized historical placename map
+- Vegetation limits adjusted to the period
+- Borders
